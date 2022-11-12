@@ -16,7 +16,7 @@ node server.js
 ```
 
 
-2. 只要网站又xss，就插入我们的css或者js代码
+2. 只要网站有xss，就插入我们的css或者js代码
 ```shell
 # 将url改成我们服务器的  
 url="my comp:3000"
